@@ -35,7 +35,7 @@ This card will expose the following sensors:
 1. Open HACS in your Home Assistant instance
 2. Go to **Frontends**
 3. Click the ⋮ menu → **Custom repositories**
-4. Add: `https://github.com/christopherdenny/ghostfolio-card`
+4. Add: `https://github.com/christopherdenny/HA-Ghostfolio-Card`
 5. Select category: **Lovelace**
 6. Click **Install**
 7. Refresh your browser (Ctrl+F5 or Cmd+Shift+R)
