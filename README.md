@@ -321,7 +321,7 @@ For issues, feature requests, or questions:
 
 ## Credits
 
-Built for the Home Assistant community with ❤️
+Built for the Home Assistant community with ❤️ and vibe coding.
 
 - Built with [Lit Element](https://lit.dev/) for web components
 - Designed for seamless Home Assistant integration
