@@ -1,0 +1,14 @@
+{
+  "name": "HA-Ghostfolio-Card",
+  "description": "Home Assistant custom card for Ghostfolio portfolio tracking. Real-time dashboard with accounts, holdings, sector allocation, and performance metrics.",
+  "content_in_root": false,
+  "filename": "HA-Ghostfolio-Card.js",
+  "render_readme": true,
+  "homeassistant": "2024.5.0",
+  "hacs": "1.33.0",
+  "documentation": "https://github.com/christopherdenny/HA-Ghostfolio-Card#readme",
+  "issues": "https://github.com/christopherdenny/HA-Ghostfolio-Card/issues",
+  "requirements": [],
+  "codeowners": ["@christopherdenny"],
+  "iot_class": "Cloud Polling"
+}
